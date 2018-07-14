@@ -1,0 +1,7 @@
+/target/
+/*/.*
+/*.log
+/as-manage/src/main/webapp/*
+/.*
+*.iml
+!.gitignore
